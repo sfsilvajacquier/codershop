@@ -1,0 +1,22 @@
+.home {
+    width: 100%;
+    
+    background-color: #cc1325;
+    /* background-image: url('../images/fondo-modal.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.greeting{ 
+    height: fit-content;
+    margin: 20px;
+    padding: 5px 15px;
+    background-color: #000000;
+    color: #cc1325;
+    display: flex;
+    justify-content: center;
+}
